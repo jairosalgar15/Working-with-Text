@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/jairosalgar15/Working-with-Text.git)
+[Live Demo Link](https://github.com/jairosalgar15/Working-with-Text)
 
 ## Getting Started
 
@@ -23,14 +23,14 @@
 
 👤 **Jairo Salgar**
 
-- GitHub: [jairosalgar15](https://github.com/jairosalgar15/Working-with-Text.git)
+- GitHub: [jairosalgar15](https://github.com/jairosalgar15/Working-with-Text)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/jairosalgar15/Working-with-Text.git).
+Feel free to check the [issues page](https://github.com/jairosalgar15/Working-with-Text).
 
 ## Show your support
 
