@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://zayleth.github.io/odin-recipes/)
+[Live Demo Link](https://github.com/jairosalgar15/Working-with-Text.git)
 
 ## Getting Started
 
@@ -21,17 +21,16 @@
 
 ## Authors
 
-👤 **Zayleth Alejandra Vegas Serfatty**
+👤 **Jairo Salgar**
 
-- GitHub: [@Zayleth](https://github.com/aristides1000)
-- Instagram: @zayleth_v
+- GitHub: [jairosalgar15](https://github.com/jairosalgar15/Working-with-Text.git)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Zayleth/odin-recipes/issues).
+Feel free to check the [issues page](https://github.com/jairosalgar15/Working-with-Text.git).
 
 ## Show your support
 
