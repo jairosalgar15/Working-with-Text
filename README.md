@@ -4,7 +4,7 @@
 
 >Cooking is the process of preparing food by applying heat. It's a fundamental human activity that allows us to transform raw ingredients into delicious and nutritious meals. There are countless ways to cook things, depending on the ingredients, desired outcome, and cultural influences. Below, a set of tasty recipes will be explained with the aim of learning to cook in a fun and fast way. We will learn to cook sushi, Caesar salad and hot dogs quickly and dynamically, I hope you like the recipes ;)
 
-![screenshot](/img/screen.jpg)
+![screenshot](/Screenshot_1.png)
 
 ## Built With
 
